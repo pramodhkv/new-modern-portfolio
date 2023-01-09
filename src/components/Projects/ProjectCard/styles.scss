@@ -1,0 +1,6 @@
+.ProjectCard {
+  &:hover &__text {
+    opacity: 1;
+    top: 50%;
+  }
+}
