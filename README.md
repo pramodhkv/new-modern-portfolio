@@ -1,3 +1,5 @@
+This is my personal portfolio website. It is built using React, TypeScript, and TailwindCSS. It is hosted on Vercel. The website is pretty much done, although I will be adding new projects as I complete them.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
