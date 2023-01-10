@@ -20,6 +20,8 @@ module.exports = {
         "sass-pink": "#CC6699",
         "styled-components-pink": "#DB7093",
         "angular-red": "#DD0031",
+        "linkedin-blue": "#0077B5",
+        "twitter-blue": "#1DA1F2",
         "web3-text1": "#7928ca",
         "web3-text2": "#ff0080",
       },
@@ -64,4 +66,14 @@ module.exports = {
     },
   },
   plugins: [require("@tailwindcss/forms")],
+  safelist: [
+    {
+      pattern: /bg-+/,
+      variants: ["hover", "focus"],
+    },
+    {
+      pattern: /text-+/,
+      variants: ["hover", "focus"],
+    },
+  ],
 };

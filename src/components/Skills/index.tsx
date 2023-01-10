@@ -8,7 +8,7 @@ import {
   SiStyledcomponents,
 } from "react-icons/si";
 import colorSharp from "../../assets/images/color-sharp.png";
-import SkillImg from "./components/SkillImg";
+import SkillImg from "./SkillImg";
 
 export interface ISkill {
   name: string;

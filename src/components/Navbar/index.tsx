@@ -53,7 +53,7 @@ const Navbar = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <AiFillLinkedin size={32} />
+            <AiFillLinkedin size={32} color="#0077B5" />
           </a>
           <a
             href="https://www.github.com/pramodhkv"
@@ -67,7 +67,7 @@ const Navbar = () => {
             target="_blank"
             rel="noreferrer"
           >
-            <AiFillTwitterCircle size={32} />
+            <AiFillTwitterCircle size={32} color="#1DA1F2" />
           </a>
 
           <a
