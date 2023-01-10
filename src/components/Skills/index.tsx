@@ -21,42 +21,42 @@ const Skills = () => {
     {
       name: "React",
       icon: <FaReact size={52} />,
-      color: "text-react-blue",
+      color: "react-blue",
     },
     {
       name: "TypeScript",
       icon: <SiTypescript size={52} />,
-      color: "text-typescript-blue",
+      color: "typescript-blue",
     },
     {
       name: "JavaScript",
       icon: <SiJavascript size={52} />,
-      color: "text-javascript-yellow",
+      color: "javascript-yellow",
     },
     {
       name: "Sass",
       icon: <FaSass size={52} />,
-      color: "text-sass-pink",
+      color: "sass-pink",
     },
     {
       name: "Bootstrap",
       icon: <SiBootstrap size={52} />,
-      color: "text-bootstrap-purple",
+      color: "bootstrap-purple",
     },
     {
       name: "Tailwind CSS",
       icon: <SiTailwindcss size={52} />,
-      color: "text-tailwind-blue",
+      color: "tailwind-blue",
     },
     {
       name: "Styled Components",
       icon: <SiStyledcomponents size={52} />,
-      color: "text-styled-components-pink",
+      color: "styled-components-pink",
     },
     {
       name: "Angular",
       icon: <FaAngular size={52} />,
-      color: "text-angular-red",
+      color: "angular-red",
     },
   ];
 
