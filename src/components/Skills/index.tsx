@@ -63,7 +63,7 @@ const Skills = () => {
   return (
     <section className="Skills relative pb-12">
       <div className="container mx-auto relative z-20">
-        <div className="bg-skill-bg w-full h-auto rounded-[64px] p-6 md:py-16 md:px-12 mt-0 md:-mt-28">
+        <div className="bg-skill-bg w-full h-auto rounded-[64px] p-6 md:py-16 md:px-12 mt-0 md:-mt-32">
           <h1 className="text-2xl md:text-5xl text-center font-centra font-bold">
             Skills
           </h1>
