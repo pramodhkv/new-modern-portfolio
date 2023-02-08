@@ -18,7 +18,8 @@ const Projects = () => {
     },
     {
       title: "Lottery App",
-      description: "A Lottery App built using NextJS, TypeScript and Tailwind.",
+      description:
+        "A Lottery App built using NextJS, TypeScript, ThirdWeb and Tailwind.",
       alt: "lottery-app",
       link: "https://lottery-pramodh.vercel.app/",
       imgSrc: Project2,
