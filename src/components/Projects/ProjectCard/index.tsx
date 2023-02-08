@@ -14,7 +14,7 @@ const ProjectCard = (props: IProjectCardProps) => {
 
   return (
     <a
-      className="ProjectCard rounded-[32px] relative overflow-hidden mb-6 w-full h-96 before:content before:absolute before:w-full before:h-0 before:bg-gradient-to-b before:from-welcome-text1 before:to-welcome-text2 before:opacity-75 before:hover:h-full transition ease-in-out duration-500"
+      className="ProjectCard rounded-[32px] shadow-none relative overflow-hidden mb-6 h-96 before:content before:absolute before:w-full before:h-0 before:bg-gradient-to-b before:from-welcome-text1 before:to-welcome-text2 before:opacity-75 before:hover:h-full transition ease-in-out duration-500"
       href={link}
       target="_blank"
       rel="noreferrer"

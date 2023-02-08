@@ -3,22 +3,39 @@ import ProjectCard, { IProjectCardProps } from "./ProjectCard";
 import Project1 from "../../assets/images/project1.png";
 import Project2 from "../../assets/images/project2.png";
 import Project3 from "../../assets/images/project3.png";
+import Project4 from "../../assets/images/project4.png";
+import Project5 from "../../assets/images/project5.png";
 
 const Projects = () => {
   const projects: IProjectCardProps[] = [
+    {
+      title: "Youtube Clone",
+      description:
+        "A Youtube clone built using React, TypeScript and Material UI.",
+      alt: "youtube-clone",
+      link: "https://youtube-clone-pramodh.vercel.app/",
+      imgSrc: Project1,
+    },
+    {
+      title: "Lottery App",
+      description: "A Lottery App built using NextJS, TypeScript and Tailwind.",
+      alt: "lottery-app",
+      link: "https://lottery-pramodh.vercel.app/",
+      imgSrc: Project2,
+    },
     {
       title: "NFT Marketplace",
       description:
         "A NFT Marketplace built using React, TypeScript Sanity, ThirdWeb and Tailwind.",
       alt: "nft-marketplace",
       link: "https://nft-challenge-pramodhkv.vercel.app/",
-      imgSrc: Project1,
+      imgSrc: Project3,
     },
     {
       title: "Deliciousss",
       description:
         "A Recipe App built using React, TypeScript, Framer Motion and Tailwind.",
-      imgSrc: Project2,
+      imgSrc: Project4,
       alt: "Deliciousss",
       link: "https://react-recipe-app-pramodhkv.vercel.app/",
     },
@@ -28,7 +45,7 @@ const Projects = () => {
         "A WhatsApp Web clone built using React, JavaScript and Firebase.",
       alt: "whatsapp-clone",
       link: "https://whatsapp-web-clone-pramodh.web.app/",
-      imgSrc: Project3,
+      imgSrc: Project5,
     },
   ];
 
@@ -45,7 +62,7 @@ const Projects = () => {
             past.
           </p>
 
-          <div className="mt-16 flex flex-col items-center justify-center gap-5 md:px-8 md:flex-row">
+          <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-3">
             {projects.map((project, index) => (
               <ProjectCard
                 key={`${project.alt}-${index}`}
