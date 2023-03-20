@@ -5,24 +5,33 @@ import Project2 from "../../assets/images/project2.png";
 import Project3 from "../../assets/images/project3.png";
 import Project4 from "../../assets/images/project4.png";
 import Project5 from "../../assets/images/project5.png";
+import Project6 from "../../assets/images/project6.png";
 
 const Projects = () => {
   const projects: IProjectCardProps[] = [
+    {
+      title: "ChatGPT Clone",
+      description:
+        "ChatGPT clone built using NextJS, React, TypeScript and Tailwind.",
+      alt: "chatgpt-clone",
+      link: "https://pramodh-chatgpt-clone.vercel.app/",
+      imgSrc: Project1,
+    },
     {
       title: "Youtube Clone",
       description:
         "A Youtube clone built using React, TypeScript and Material UI.",
       alt: "youtube-clone",
       link: "https://youtube-clone-pramodh.vercel.app/",
-      imgSrc: Project1,
+      imgSrc: Project2,
     },
     {
-      title: "Lottery App",
+      title: "Lottery dApp",
       description:
         "A Lottery App built using NextJS, TypeScript, ThirdWeb and Tailwind.",
       alt: "lottery-app",
       link: "https://lottery-pramodh.vercel.app/",
-      imgSrc: Project2,
+      imgSrc: Project3,
     },
     {
       title: "NFT Marketplace",
@@ -30,13 +39,13 @@ const Projects = () => {
         "A NFT Marketplace built using React, TypeScript Sanity, ThirdWeb and Tailwind.",
       alt: "nft-marketplace",
       link: "https://nft-challenge-pramodhkv.vercel.app/",
-      imgSrc: Project3,
+      imgSrc: Project4,
     },
     {
       title: "Deliciousss",
       description:
         "A Recipe App built using React, TypeScript, Framer Motion and Tailwind.",
-      imgSrc: Project4,
+      imgSrc: Project5,
       alt: "Deliciousss",
       link: "https://react-recipe-app-pramodhkv.vercel.app/",
     },
@@ -46,7 +55,7 @@ const Projects = () => {
         "A WhatsApp Web clone built using React, JavaScript and Firebase.",
       alt: "whatsapp-clone",
       link: "https://whatsapp-web-clone-pramodh.web.app/",
-      imgSrc: Project5,
+      imgSrc: Project6,
     },
   ];
 
