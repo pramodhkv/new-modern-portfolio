@@ -6,6 +6,8 @@ import {
   SiBootstrap,
   SiTailwindcss,
   SiStyledcomponents,
+  SiNextdotjs,
+  SiAstro,
 } from "react-icons/si";
 import colorSharp from "../../assets/images/color-sharp.png";
 import SkillImg from "./SkillImg";
@@ -22,6 +24,16 @@ const Skills = () => {
       name: "React",
       icon: <FaReact size={52} />,
       color: "react-blue",
+    },
+    {
+      name: "Next.js",
+      icon: <SiNextdotjs size={52} />,
+      color: "nextjs-black",
+    },
+    {
+      name: "Astro.js",
+      icon: <SiAstro size={52} />,
+      color: "",
     },
     {
       name: "TypeScript",

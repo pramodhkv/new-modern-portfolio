@@ -1,6 +1,8 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+import forms from "@tailwindcss/forms";
+
+export default {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       fontFamily: {
@@ -24,6 +26,7 @@ module.exports = {
         "twitter-blue": "#1DA1F2",
         "web3-text1": "#7928ca",
         "web3-text2": "#ff0080",
+        "astro-blue": "#0d0f14",
       },
       backgroundImage: {
         banner: "url('/src/assets/images/banner-bg.png')",
@@ -65,7 +68,7 @@ module.exports = {
       },
     },
   },
-  plugins: [require("@tailwindcss/forms")],
+  plugins: [forms],
   safelist: [
     {
       pattern: /bg-+/,

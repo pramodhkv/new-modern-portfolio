@@ -18,7 +18,7 @@ const GetInTouch = () => {
 
     emailjs
       .sendForm(
-        "service_mfpc847",
+        "service_bwkra6i",
         "template_z344n6q",
         formRef.current as HTMLFormElement,
         "UWyEpDGlpzkvpou3o"
