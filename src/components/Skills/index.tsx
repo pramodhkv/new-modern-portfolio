@@ -14,7 +14,7 @@ import SkillImg from "./SkillImg";
 
 export interface ISkill {
   name: string;
-  icon: JSX.Element;
+  icon: React.ReactElement;
   color: string;
 }
 
