@@ -23,6 +23,7 @@
     /* Types */
     "types": ["vitest/globals"]
   },
-  "include": ["src", "vite.config.ts"],
+  "include": ["src"],
+  "exclude": ["dist", "node_modules", "vite.config.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
