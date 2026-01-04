@@ -1,0 +1,238 @@
+{
+  "personalInfo": {
+    "name": "Pramodh Kempapura Viswanath",
+    "title": "Senior Frontend Engineer",
+    "location": "Munich, Germany",
+    "bio": "👉🏽 Senior Frontend Engineer with 10+ years of experience building scalable, production-grade B2B and data-driven web applications using React, TypeScript, and modern frontend architectures. \n\n👉🏽 Strong focus on analytics-heavy UIs, AI-powered products, and interactive data storytelling, with end-to-end ownership across frontend architecture, component systems, performance optimization, and delivery. \n\n👉🏽 I'm experienced in high-growth startup environments, collaborating closely with product, design, and backend teams to build clear, decision-ready user experiences. \n\n👉🏽 I'm skilled in JavaScript & TypeScript, with hands-on expertise in frameworks such as React, Next.js, Angular, and ExtJS. \n\n👉🏽 I’m also highly comfortable with Tailwind CSS, Bootstrap, Sass, and Styled Components for creating scalable and pixel-perfect designs. \n\n👉🏽 I'm experienced in leading both large teams (~10) and smaller agile teams (3–7), including fully remote setups—thriving as a collaborative leader and strong team player. \n\n👉🏽 I'm passionate about working with ambitious, curious people, exchanging best practices, and delivering innovative digital experiences that bring real value. \n\n👉🏽 I'm Known for my adaptability, startup-driven energy, and attention to detail, I take pride in quickly integrating into new work cultures and contributing to team success. Always eager to learn and grow, I’m excited to take on new challenges and help build the next generation of web applications."
+  },
+  "skills": {
+    "frontend": [
+      "React",
+      "Next.js",
+      "Astro.js",
+      "TypeScript",
+      "JavaScript",
+      "TailwindCSS",
+      "Framer Motion",
+      "Sass",
+      "Bootstrap",
+      "Styled Components",
+      "Material-UI",
+      "Zustand",
+      "Angular",
+      "ExtJS",
+      "Vite",
+      "HTML5",
+      "CSS3"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MongoDB",
+      "RESTful APIs",
+      "SQL",
+      "PostgreSQL",
+      "Vector Databases (Pinecone)",
+      "OpenAI API Integration",
+      "AWS",
+      "Firebase",
+      "Java"
+    ],
+    "architecture": [
+      "Component Libraries",
+      "Design Systems",
+      "Frontend Architecture",
+      "Responsive Design",
+      "Performance Optimization",
+      "Progressive Web Apps (PWAs)",
+      "Server-Side Rendering (SSR)",
+      "Static Site Generation (SSG)"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Vercel",
+      "VS Code",
+      "Jest",
+      "Cypress",
+      "Playwright",
+      "Webpack",
+      "CI/CD Pipelines"
+    ],
+    "waysOfWorking": [
+      "Agile Methodologies",
+      "Team Leadership",
+      "Ownership & Accountability Mindset",
+      "Cross-Functional Collaboration",
+      "Product Development",
+      "UI/UX Principles",
+      "Data Visualization",
+      "Mentoring",
+      "Vibe Coding",
+      "Agentic AI Workflows",
+      "Remote Work"
+    ],
+    "languages": ["JavaScript", "TypeScript"]
+  },
+  "experience": [
+    {
+      "company": "Wongdoody GmbH",
+      "role": "Senior Frontend Engineer",
+      "duration": "May 2023 - Present",
+      "description": "👉🏽 Led a frontend team delivering award-winning digital products, including an AI chatbot application that won Bronze at the German Digital Awards 2025.\n\n👉🏽 Built data-driven analytics and storytelling web applications for enterprise clients, including PwC – Value in Motion, using interactive visualizations and scrollytelling to surface complex market insights (strong alignment with AI search analytics).\n\n👉🏽 Developed an interactive car configurator platform for a major automotive client, focusing on UX clarity, performance, and scalable frontend architecture.\n\n👉🏽 Delivered high-fidelity interactive UI experiences, improving campaign engagement and increasing CTR by 15%.\n\n👉🏽 Took end-to-end ownership of frontend architecture, code quality, and delivery while coordinating with product, design, and backend teams across Germany and India.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Astro.js",
+        "TailwindCSS",
+        "Framer Motion",
+        "Sass",
+        "Cypress",
+        "Playwright",
+        "Node.js",
+        "AWS"
+      ]
+    },
+    {
+      "company": "Pink.gg (Atomic Hub)",
+      "role": "Frontend Engineer",
+      "duration": "Oct 2021 - Feb 2023",
+      "description": "👉🏽 Created user friendly application using React to allow the users to create and launch their own NFTs.\n\n👉🏽 Increased user interaction, by building a feature to help users wishlist their NFTs and see what’s trending.\n\n👉🏽 Optimized website performance by caching the right resources.\n\n👉🏽 Increased consistency of the application by building custom reusable React components.\n\n👉🏽 Worked closely with the design team & the product management teams to strive for consistency.\n\n👉🏽 Worked closely with the product management team and the design team and implemented the design prototypes into responsive, scalable & progressively enhanced web application.\n\n👉🏽 Successfully managed to build & ship features in a completely remote set up.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Bootstrap",
+        "Sass",
+        "Webpack",
+        "Jest"
+      ]
+    },
+    {
+      "company": "Ysura GmbH",
+      "role": "Senior Frontend Developer",
+      "duration": "Jul 2019 - Sep 2021",
+      "description": "👉🏽 Created a custom CRM solution using AngularJS in discussion with Pharma leaders with usability being the top priority.\n\n👉🏽 Created a reusable design system to improve the quality of life for the Software Developers.\n\n👉🏽 Worked closely with the lead Engineers using React to develop a new in-house web conference tool for the Sales representatives.",
+      "technologies": [
+        "AngularJS",
+        "React",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company": "NTT DATA Services",
+      "role": "Team Lead / Senior Software Engineer / Software Engineer / Trainee",
+      "duration": "Oct 2012 - May 2019",
+      "description": "👉🏽 Lead a group of 6 team members in migrating the application using ExtJS from version 2.2 to 6.5.0\n\n👉🏽 Outstanding contribution award for successfully migrating the application.\n\n👉🏽 Single handedly responsible for bringing a business opportunity using Liferay to deliver personalised content to the customer.\n\n👉🏽 Best technical white paper presentation award for the usage of Liferay technology.\n\n👉🏽 Involved in direct communication with the healthcare clients in the US to discuss the features and the roadmaps for the application.\n\n👉🏽 Created a user friendly application for kidney related facilities in the US using ExtJS to manage the patient’s progress.\n\n👉🏽 Worked as an onsite-coordinator between Indian and German teams with automotive client BMW.\n\n👉🏽 Enhancing web application with new features using ExtJS, Angular and Java in the backend.\n\n👉🏽 Got promoted as a Senior Software Engineer in 2014. Also happened to score the highest in the certification exam for the same.\n\n👉🏽 Awarded as the best team for the Q4 in 2014. As a team we were successful in migrating the existingExtJS application from version 2.2 to 6.5.0.\n\n👉🏽 Implementing new features and improving existing features in the application.\n\n👉🏽 Being mentored by Senior Developers & Team Lead.\n\n👉🏽 Gradually taking responsibility on the whole feature development.",
+      "technologies": [
+        "ExtJS",
+        "JavaScript",
+        "JSP",
+        "CSS",
+        "Java",
+        "SQL",
+        "PostgreSQL",
+        "AngularJS"
+      ]
+    }
+  ],
+  "noteworthy_projects": [
+    {
+      "name": "Handelsblatt AI Trend Report",
+      "description": "Interactive, data-driven AI trend report using scrollytelling and animations. AstroJS, React, TypeScript, Tailwind CSS, Framer Motion. This platform showcases trends in different industries in their respective timelines. Mostly targeted towards Europen markets to highlight AI trends.",
+      "technologies": [
+        "AstroJS",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion"
+      ],
+      "link": "https://research.handelsblatt.com/ki-trend-report/"
+    },
+    {
+      "name": "PwC – Value in Motion",
+      "description": "Data-driven analytics and storytelling web application for PwC, using interactive visualizations and scrollytelling to surface complex market insights. Built with React, TypeScript, Nx Monorepo, TailwindCSS, and D3.js.",
+      "technologies": [
+        "React,",
+        "NX Monorepo",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion",
+        "D3.js"
+      ],
+      "link": "https://www.pwc.com/gx/en/issues/value-in-motion.html"
+    },
+    {
+      "name": "ChatGPT Clone",
+      "description": "Inspired by ChatGPT, this AI-powered chatbot application is built with React, TypeScript, Next.js, and TailwindCSS. It integrates OpenAI's GPT-3.5 API to provide conversational AI capabilities in a sleek, user-friendly interface.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "OpenAI API"
+      ],
+      "link": "https://pramodh-chatgpt-clone.vercel.app/"
+    },
+    {
+      "name": "YouTube Clone",
+      "description": "Inspired by YouTube, this video browsing application is built with React, TypeScript, TailwindCSS, and Material UI. It features video browsing, search functionality, and components to mimic YouTube's core features.",
+      "technologies": ["React", "TypeScript", "Material UI"],
+      "link": "https://youtube-clone-pramodh.vercel.app/"
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "Modern portfolio built with React, TypeScript, TailwindCSS and Vite. Features dark theme, responsive design, and contact form integration.",
+      "technologies": ["React", "TypeScript", "Vite", "TailwindCSS"],
+      "link": "https://pramodh-portfolio.vercel.app/"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Electronics and Communication",
+      "institution": "Visvesvaraya Technological University",
+      "year": "2007 - 2011"
+    }
+  ],
+  "hobbies": [
+    "Currently playing around with vibe coding",
+    "Playing Cricket at Bavaria's Bundesliga level",
+    "Photography",
+    "Dancing",
+    "Movie buff",
+    "Fitness Enthusiast"
+  ],
+  "interests": [
+    "Frontend Engineering",
+    "UI/UX Design",
+    "World of AI",
+    "Dig deep into Cricket's nuances"
+  ],
+  "contact": {
+    "email": "pramodh011@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/pramodh-kempapura-viswanath-b1227835/",
+    "github": "https://github.com/pramodhkv"
+  },
+  "funFacts": [
+    "Can't do without my Chai ☕",
+    "Always think like a Sports athlete and bring that energy and strategy to my work.",
+    "Sachin Tendulkar is my all-time sporting hero.",
+    "Rajinikanth is my favorite movie star.",
+    "Used to be one of the best dancers in school & college."
+  ],
+  "availability": {
+    "openToWork": true,
+    "lookingFor": [
+      "Full-time opportunities",
+      "Remote Work",
+      "Hybrid if in Munich"
+    ],
+    "preferredRoles": ["Senior Frontend Engineer", "Team Lead"]
+  }
+}
